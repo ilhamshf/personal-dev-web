@@ -21,7 +21,7 @@ const Navbar = () => {
     },
     {
       text: "Timeline",
-      url: "https://timeline.wisesa.dev",
+      url: "/",
     },
     {
       text: "About",
