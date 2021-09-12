@@ -3,7 +3,7 @@ module.exports = {
     process.env.NEXT_PUBLIC_BASE_URL ||
     (process.env.NEXT_PUBLIC_VERCEL_URL &&
       `https://${process.env.NEXT_PUBLIC_VERCEL_URL}`) ||
-    "https://wisesa.dev",
+    "https://ilhamshf.space",
   description:
-    "Personal website of Anvaqta Tangguh Wisesa. A computer science student and a software engineer focused on the web platforms.",
+    "Personal website of Ilham Shofa. A computer science student and a software engineer focused on the web platforms.",
 };
